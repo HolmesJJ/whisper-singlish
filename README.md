@@ -3,8 +3,9 @@
 * [Whisper Small Singlish 122k](https://huggingface.co/jensenlwt/whisper-small-singlish-122k)
 * [Whisper Small Singlish](https://huggingface.co/mjwong/whisper-small-singlish)
 * [Singlish-Whisper: Finetuning ASR for Singapore's Unique English](https://www.jensenlwt.com/blog/singlish-whisper-finetuning-asr-for-singapore-unique-english)
-* [Singlish Dataset](https://github.com/AudioLLMs/Singlish)
 * [National Speech Corpus](https://www.imda.gov.sg/how-we-can-help/national-speech-corpus)
+* [Singlish Dataset](https://github.com/AudioLLMs/Singlish)
+* [Singlish Examples](https://www.reddit.com/r/singapore/comments/47hh4e/comment/d0cyynu/)
 
 ## Quick Start
 
