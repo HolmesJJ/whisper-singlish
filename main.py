@@ -8,12 +8,16 @@ from transformers import AutoModelForSpeechSeq2Seq
 
 
 MODELS_DIR = 'models'
-MODEL_PATH = os.path.join(MODELS_DIR, 'whisper-small-singlish-122k')
+MODEL_PATH = os.path.join(MODELS_DIR, 'whisper-small')
 DATA_DIR = 'data'
 SAMPLE1_DIR = os.path.join(DATA_DIR, 'sample1')
 SAMPLE1_PATH = os.path.join(DATA_DIR, 'sample1.txt')
 SAMPLE2_DIR = os.path.join(DATA_DIR, 'sample2')
 SAMPLE2_PATH = os.path.join(DATA_DIR, 'sample2.txt')
+SAMPLE3_DIR = os.path.join(DATA_DIR, 'sample3')
+SAMPLE3_PATH = os.path.join(DATA_DIR, 'sample3.txt')
+SAMPLE4_DIR = os.path.join(DATA_DIR, 'sample4')
+SAMPLE4_PATH = os.path.join(DATA_DIR, 'sample4.txt')
 
 
 def extract_number(filename):
