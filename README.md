@@ -6,6 +6,8 @@
 * [National Speech Corpus](https://www.imda.gov.sg/how-we-can-help/national-speech-corpus)
 * [Singlish Dataset](https://github.com/AudioLLMs/Singlish)
 * [Singlish Examples](https://www.reddit.com/r/singapore/comments/47hh4e/comment/d0cyynu/)
+* [Qwen3 ASR](https://qwen.ai/blog?id=824c40353ea019861a636650c948eb8438ea5cf2&from=home.latest-research-list)
+* [Qwen3 ASR Demo](https://huggingface.co/spaces/Qwen/Qwen3-ASR-Demo)
 
 ## Quick Start
 
